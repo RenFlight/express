@@ -10,5 +10,4 @@ res.json(data);
 }
 });
 })
-
-module.exports= router
+module.exports= router;
